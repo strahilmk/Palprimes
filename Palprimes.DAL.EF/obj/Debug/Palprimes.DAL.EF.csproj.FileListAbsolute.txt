@@ -1,0 +1,11 @@
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\Palprimes.DAL.EF.dll.config
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\Palprimes.DAL.EF.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\Palprimes.DAL.EF.pdb
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\obj\Debug\Palprimes.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\obj\Debug\Palprimes.DAL.EF.csproj.CopyComplete
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\obj\Debug\Palprimes.DAL.EF.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.DAL.EF\obj\Debug\Palprimes.DAL.EF.pdb

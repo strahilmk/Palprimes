@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[_Log] (Table)
+       [dbo].[ConfigurationSetting] (Table)
+       [dbo].[Number] (Table)
+       [dbo].[DF_configurationsetting_UniqueId] (Default Constraint)
+       [dbo].[Number_UniqueId] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Number] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Number] (Default Constraint)
+       [dbo].[Number_CreateDate] (Default Constraint)
+       [dbo].[Number_LastUpdate] (Default Constraint)
+
+** Supporting actions

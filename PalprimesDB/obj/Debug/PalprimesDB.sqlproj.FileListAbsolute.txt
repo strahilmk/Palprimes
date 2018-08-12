@@ -1,0 +1,5 @@
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\PalprimesDB\obj\Debug\PalprimesDB.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\PalprimesDB\obj\Debug\PalprimesDB.pdb
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\PalprimesDB\bin\Debug\PalprimesDB.dacpac
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\PalprimesDB\bin\Debug\PalprimesDB.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\PalprimesDB\bin\Debug\PalprimesDB.pdb

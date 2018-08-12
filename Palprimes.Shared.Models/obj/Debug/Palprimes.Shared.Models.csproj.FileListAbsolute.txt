@@ -1,0 +1,10 @@
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Shared.Models\bin\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Shared.Models\bin\Debug\Palprimes.Shared.Models.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.pdb
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.Shared.Models\bin\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.Shared.Models\bin\Debug\Palprimes.Shared.Models.pdb
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\Desktop\Palprimes\Palprimes\Palprimes.Shared.Models\obj\Debug\Palprimes.Shared.Models.pdb

@@ -1,0 +1,10 @@
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Business.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Business.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Helpers.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Helpers.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Shared.Models.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.csprojResolveAssemblyReference.cache
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.pdb

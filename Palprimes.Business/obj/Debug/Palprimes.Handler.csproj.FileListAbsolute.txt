@@ -1,0 +1,12 @@
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Business.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Business.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Helpers.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Shared.Models.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Helpers.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\Palprimes.Shared.Models.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Handler.csprojResolveAssemblyReference.cache
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Handler.csproj.CoreCompileInputs.cache
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\obj\Debug\Palprimes.Business.pdb
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\log4net.dll
+C:\Users\Strahil\source\repos\Palprimes\Palprimes.Business\bin\Debug\log4net.xml

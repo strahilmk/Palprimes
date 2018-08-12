@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[_Log] (Table)
+       [dbo].[BinaryNumber] (Table)
+       [dbo].[ConfigurationSetting] (Table)
+       [dbo].[DecimalNumber] (Table)
+       [dbo].[BinaryNumber_UniqueId] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[BinaryNumber] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[BinaryNumber] (Default Constraint)
+       [dbo].[BinaryNumber_CreateDate] (Default Constraint)
+       [dbo].[BinaryNumber_LastUpdate] (Default Constraint)
+       [dbo].[DF_configurationsetting_UniqueId] (Default Constraint)
+       [dbo].[DecimalNumber_UniqueId] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[DecimalNumber] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[DecimalNumber] (Default Constraint)
+       [dbo].[DecimalNumber_CreateDate] (Default Constraint)
+       [dbo].[DecimalNumber_LastUpdate] (Default Constraint)
+
+** Supporting actions

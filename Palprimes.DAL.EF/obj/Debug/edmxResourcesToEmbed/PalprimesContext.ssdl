@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PalprimesDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="_Log">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Thread" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Level" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Logger" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Message" Type="varchar" MaxLength="4000" Nullable="false" />
+    <Property Name="Exception" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="BinaryNumber">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UniqueId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Value" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="IsPrime" Type="bit" Nullable="false" />
+    <Property Name="IsPalindrom" Type="bit" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime2" Precision="7" Nullable="false" />
+    <Property Name="LastUpdate" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ConfigurationSetting">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UniqueId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Category" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Value" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Units" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="IsDefault" Type="bit" Nullable="false" />
+    <Property Name="DisplayOrder" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DecimalNumber">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UniqueId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Value" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="IsPrime" Type="bit" Nullable="false" />
+    <Property Name="IsPalindrom" Type="bit" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime2" Precision="7" Nullable="false" />
+    <Property Name="LastUpdate" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PalprimesDBModelStoreContainer">
+    <EntitySet Name="_Log" EntityType="Self._Log" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BinaryNumber" EntityType="Self.BinaryNumber" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ConfigurationSetting" EntityType="Self.ConfigurationSetting" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DecimalNumber" EntityType="Self.DecimalNumber" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
